@@ -6,9 +6,10 @@ This repository publishes the static presentation site for
 SCOPE is the **System for Conjecture and Open-Problem Exploration** — a
 mathematical sky survey.
 
-The checked-in site is a static snapshot of the public portal. It contains no
+The checked-in site is SCOPE's static project website. It contains no
 server-side application code, database, account system, or private research
-materials. The dated research archive remains in
+materials. SCOPE findings are published and searched through
+[Resultary](https://resultary.org/), while the dated research archive remains in
 [SCOPE2026](https://github.com/SCOPE-Science/SCOPE2026).
 
 ## Publishing
