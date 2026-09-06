@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal reflector telescope icon</title>
+  <desc id="desc">A three-color symbol of a reflector telescope seen from the front.</desc>
+
+  <!-- Three flat colors, no gradients, shadows, textures, or effects. -->
+  <circle cx="256" cy="256" r="224" fill="#FF7900"/>
+  <circle cx="256" cy="256" r="202" fill="#303030"/>
+
+  <!-- Thin spider vanes distinguish the optical assembly from a steering wheel. -->
+  <g fill="none" stroke="#F0EEE9" stroke-width="11" stroke-linecap="butt" stroke-linejoin="round">
+    <path d="M256 238V54"/>
+    <path d="M240 266L81 362"/>
+    <path d="M272 266L431 362"/>
+  </g>
+
+  <!-- Compact secondary mirror. -->
+  <circle cx="256" cy="256" r="39" fill="#F0EEE9"/>
+</svg>

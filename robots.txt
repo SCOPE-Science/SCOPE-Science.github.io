@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /private
+Disallow: /internal
+Disallow: /_internal
+Disallow: /.
+
+Sitemap: https://scope.science/sitemap.xml
