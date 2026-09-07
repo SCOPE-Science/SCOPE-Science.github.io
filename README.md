@@ -12,6 +12,10 @@ materials. SCOPE findings are published and searched through
 [Resultary](https://resultary.org/), while the dated research archive remains in
 [SCOPE2026](https://github.com/SCOPE-Science/SCOPE2026).
 
+All dates and timestamps presented by the public site use Coordinated Universal
+Time (UTC). Human-readable times include the `UTC` label, and machine-readable
+timestamps use RFC 3339 with a trailing `Z`.
+
 ## Publishing
 
 GitHub Pages serves the `main` branch from the repository root. Files use
