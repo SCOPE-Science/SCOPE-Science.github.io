@@ -18,9 +18,10 @@ timestamps use RFC 3339 with a trailing `Z`.
 
 ## Publishing
 
-Current observing phase: **Phase II — research observations**, begun
-2026-09-16 UTC. Home, About SCOPE, and SCOPE Survey describe the same-model
-same-model review workflow. same-model review must never be described as independent review.
+Current observing phase: **Phase II — mathematical exploration**, begun
+2026-09-16 UTC. Research and review architectures remain experimental and may
+evolve throughout the phase. Each record states its actual review method;
+same-model review must never be described as independent review.
 Originality is assessed to the best of our knowledge, with inaccessible
 potentially covering sources disclosed. See the annual archive's Phase II policy.
 
